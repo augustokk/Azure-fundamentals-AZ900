@@ -28,10 +28,8 @@
 
 ## Describe cloud service types
 
-1.Describe infrastructure as a service (IaaS)
+1. Describe infrastructure as a service (IaaS)
 
-1.Describe platform as a service (PaaS)
-
-1. Describe software as a service (SaaS)
+1. Describe platform as a service (PaaS)
 
 1. Identify appropriate use cases for each cloud service (IaaS, PaaS, and SaaS)
