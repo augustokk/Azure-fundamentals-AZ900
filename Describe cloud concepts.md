@@ -3,6 +3,8 @@
 ## Describe cloud computing
 
 1. Describe the shared responsibility model
+   - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/4-describe-shared-responsibility-model?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts)
+   - Study Notes
 
 1. Define cloud models, including public, private, and hybrid
 
