@@ -10,3 +10,9 @@ That will englobe some study guide and study notes for the people willing to get
 ## Study Notes 
 You can also check for our very detailed and explained word documentation, that serves as a study note with many different analogies for easier understand of complex terms and you can download it on the next link
 1. [Study Notes](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/azure%20az900.docx)
+
+## Test Yourself
+I created that repository on github, where you can run a Python program.
+There are several of questions that migth appear in your exam certification.
+
+1. [Python program Az900 question](https://github.com/augustokk/Az900---Questions-Python-/tree/main)
