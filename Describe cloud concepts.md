@@ -18,7 +18,7 @@
    - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/6-describe-consumption-based-model)
 
 1. Describe serverless
-   - [Microsoft Learn Link]
+   - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/6-functions)
 
 
 ## Describe the benefits of using cloud services
