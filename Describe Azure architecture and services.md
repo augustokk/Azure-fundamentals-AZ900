@@ -8,7 +8,7 @@
    - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure)
 
 1. Describe Azure datacenters
-   - [Microsoft Learn Link]
+   - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/5-describe-azure-physical-infrastructure)
 
 1. Describe Azure resources and resource groups
    - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure)
@@ -41,7 +41,7 @@
    - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/8-virtual-network)
 
 1. Define public and private endpoints
-   - [Microsoft Learn Link]
+   - [Microsoft Learn Link](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/8-virtual-network)
 
 
 ## Describe Azure storage services
