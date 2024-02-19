@@ -1,22 +1,29 @@
-# Azure-fundamentals-AZ900
-That will englobe some study guide and study notes for the people willing to get a certification of azure AZ 900.
+# Azure Fundamentals - AZ900
+
+Welcome to the Azure Fundamentals AZ-900 certification study guide and notes repository. Here, you will find comprehensive resources to aid your preparation for the AZ-900 exam, covering key skills measured in the certification.
 
 ## Skills Measured
 
-1. [Describe cloud concepts (25–30%)](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/Describe%20cloud%20concepts.md)
-1. [Describe Azure architecture and services (35–40%)](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/Describe%20Azure%20architecture%20and%20services.md)
-1. [Describe Azure management and governance (30–35%)](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/Describe%20Azure%20management%20and%20governance.md)
+1. [Describe Cloud Concepts (25–30%)](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/Describe%20cloud%20concepts.md)
+2. [Describe Azure Architecture and Services (35–40%)](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/Describe%20Azure%20architecture%20and%20services.md)
+3. [Describe Azure Management and Governance (30–35%)](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/Describe%20Azure%20management%20and%20governance.md)
 
-## Study Notes 
-You can also check for our very detailed and explained word documentation, that serves as a study note with many different analogies for easier understand of complex terms and you can download it on the next link
+## Study Notes
+
+For an in-depth study experience, explore our detailed Word documentation. This study note provides clear explanations using various analogies to enhance your understanding of complex concepts.
+
 [Study Notes](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/azure%20az900.docx)
 
 ## PowerPoint Presentation
-You can visualize the power point presentation with the main topics explained with some proper images and analogies to make it easier to understand
-[PowerPoint Presentation](https://github.com/augustokk/Azure-fundamentals-AZ900/releases/tag/v1.0)
-   
-## Test Yourself
-I created that repository on github, where you can run a Python program.
-There are several of questions that migth appear in your exam certification.
 
-[Python program Az900 question](https://github.com/augustokk/Az900---Questions-Python-/tree/main)
+Visualize the main topics with our PowerPoint presentation, featuring clear explanations accompanied by images and analogies for easier comprehension.
+
+[PowerPoint Presentation](https://github.com/augustokk/Azure-fundamentals-AZ900/releases/tag/v1.0)
+
+## Test Yourself
+
+Test your knowledge with our Python program designed to simulate AZ-900 exam questions. The repository contains several questions that may appear in your certification exam.
+
+[Python Program AZ900 Questions](https://github.com/augustokk/Az900---Questions-Python-/tree/main)
+
+Feel free to explore, study, and test yourself to enhance your Azure fundamentals knowledge and prepare effectively for the AZ-900 certification. Good luck on your certification journey!
