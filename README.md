@@ -14,7 +14,7 @@ For an in-depth study experience, explore our detailed Word documentation. This 
 
 [Study Notes](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/azure%20az900.docx)
 
-By downloading the file $${\color{red}(clicking on view raw)}$$ , you will have access to the Word Document.
+By downloading the file(clicking on view raw), you will have access to the Word Document.
 
 ## PowerPoint Presentation
 
