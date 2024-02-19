@@ -13,12 +13,14 @@ Welcome to the Azure Fundamentals AZ-900 certification study guide and notes rep
 For an in-depth study experience, explore our detailed Word documentation. This study note provides clear explanations using various analogies to enhance your understanding of complex concepts.
 
 [Study Notes](https://github.com/augustokk/Azure-fundamentals-AZ900/blob/main/azure%20az900.docx)
+By downloading the file, you will have access to the Word Document.
 
 ## PowerPoint Presentation
 
 Visualize the main topics with our PowerPoint presentation, featuring clear explanations accompanied by images and analogies for easier comprehension.
 
 [PowerPoint Presentation](https://github.com/augustokk/Azure-fundamentals-AZ900/releases/tag/v1.0)
+By downloading the file, you will have access to the PowerPoint presentation.
 
 ## Test Yourself
 
