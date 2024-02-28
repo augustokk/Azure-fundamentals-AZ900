@@ -1,6 +1,6 @@
 # Azure Fundamentals - AZ900
 
-Welcome to the Azure Fundamentals AZ-900 certification study guide and notes repository. Here, you will find comprehensive resources to aid your preparation for the AZ-900 exam, covering key skills measured in the certification.
+Welcome to the Azure Fundamentals AZ-900 certification study guide and notes repository. Here, you will find comprehensive resources to aid your preparation for the AZ-900 exam, covering key skills measured in the certification..
 
 ## Skills Measured
 
